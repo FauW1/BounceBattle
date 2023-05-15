@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e8d60e431fa40754b920ae1d9a0e6be9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - groundCheck: {instanceID: 0}
+  - push: {fileID: 6708669832005264438, guid: 8e289ef33fc1a1f4f95e4bcc2d21677f, type: 3}
+  - blood: {fileID: 6053996435584532826, guid: a9123c621c751be439fb5315cae01153, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

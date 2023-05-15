@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51ec4d0fca4f734418065dc5aa1a3a7d, type: 3}
+  m_Name: Kangaroo
+  m_EditorClassIdentifier: 
+  characterNumber: 0
+  characterName: Kyle
+  speed: 200
+  jumpForce: 20
+  smashAcc: 700
+  health: 120
+  attack: 20
+  specialValue: 15
+  abilityDuration: 1
+  coolDown: 3
+  abilityname: Pwr Kick

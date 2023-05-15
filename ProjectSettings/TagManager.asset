@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Player 1
+  - Player 2
+  - Platform
+  - Character Manager
+  - Sound Manager
+  - Fade Screen
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Confiner
+  - Lost
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Parallax
+    uniqueID: 1275489275
+    locked: 0
+  - name: Noninteractable
+    uniqueID: 1613763899
+    locked: 0
+  - name: Behind Default
+    uniqueID: 3415847803
+    locked: 0
+  - name: Fade
+    uniqueID: 3720380203
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: In front of Default
+    uniqueID: 1552640573
+    locked: 0
